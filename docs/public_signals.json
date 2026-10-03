@@ -1,0 +1,12 @@
+[
+  {"source_id":"cmhc_2025","geography":"Montreal CMA","variable":"purpose_built_vacancy","value":2.9,"unit":"percent","reference_end":"2025-10-31","published_at":"2025-12-11"},
+  {"source_id":"cmhc_2025","geography":"Ottawa CMA (Ontario)","variable":"purpose_built_vacancy","value":3.0,"unit":"percent","reference_end":"2025-10-31","published_at":"2025-12-11"},
+  {"source_id":"cmhc_2025","geography":"Montreal CMA","variable":"average_two_bedroom_rent","value":1346,"unit":"CAD/month","reference_end":"2025-10-31","published_at":"2025-12-11"},
+  {"source_id":"cmhc_2025","geography":"Ottawa CMA (Ontario)","variable":"average_two_bedroom_rent","value":1926,"unit":"CAD/month","reference_end":"2025-10-31","published_at":"2025-12-11"},
+  {"source_id":"cmhc_2025","geography":"Montreal CMA","variable":"two_bedroom_rent_growth","value":7.2,"unit":"percent_yoy","reference_end":"2025-10-31","published_at":"2025-12-11"},
+  {"source_id":"cmhc_2025","geography":"Ottawa CMA (Ontario)","variable":"two_bedroom_rent_growth","value":3.4,"unit":"percent_yoy","reference_end":"2025-10-31","published_at":"2025-12-11"},
+  {"source_id":"statcan_september_2025","geography":"Quebec","variable":"rent_cpi_yoy","value":9.6,"unit":"percent_yoy","reference_end":"2025-09-30","published_at":"2025-10-21"},
+  {"source_id":"statcan_september_2025","geography":"Ontario","variable":"rent_cpi_yoy","value":3.5,"unit":"percent_yoy","reference_end":"2025-09-30","published_at":"2025-10-21"},
+  {"source_id":"statcan_november_2025","geography":"Canada","variable":"rent_cpi_yoy","value":4.7,"unit":"percent_yoy","reference_end":"2025-11-30","published_at":"2025-12-15"},
+  {"source_id":"ontario_2026","geography":"Ontario","variable":"conditional_renewal_guideline","value":2.1,"unit":"percent","reference_end":"2026-12-31","published_at":"2025-06-30"}
+]
